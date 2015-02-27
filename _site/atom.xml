@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>PHPUGLE</title>
+ <link href="http://phpugle.nl/" rel="self"/>
+ <link href="http://phpugle.nl"/>
+ <updated>2015-02-27T21:50:47+01:00</updated>
+ <id>http://phpugle.nl</id>
+ <author>
+   <name>Ben Willems</name>
+   <email>ben@netants.nl</email>
+ </author>
+
+ 
+ 
+</feed>
