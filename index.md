@@ -5,7 +5,7 @@ side_content_right: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12
 ---
 {% include JB/setup %}
 
-### <span class="glyphicon glyphicon-calendar"></span> Next Meetup: Monday, March 2nd 2015 at 7:00PM @ X-com B.V.
+### <span class="glyphicon glyphicon-calendar"></span> Next Meetup: Monday, March 2nd 2015 at 7:00PM @ X-Com B.V.
 
 #### Coding standards and code quality
 
