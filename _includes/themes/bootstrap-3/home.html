@@ -1,0 +1,26 @@
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+<div class="row">
+  {% if page.side_content %}
+  <div class="col-xs-4">
+        {{ page.side_content }}
+  </div>
+  <div class="col-xs-8">
+    {{ content }}
+  </div>
+  {% else if page.side_content_right %}
+  <div class="col-xs-7">
+    {{ content }}
+  </div>
+  <div class="col-xs-5">
+        {{ page.side_content_right }}
+  </div>
+  {% else %}
+  <div class="col-xs-12">
+    {{ content }}
+  </div>
+  {% endif %}
+</div>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/781615113490305/api/mu.btns.js?id=9m40lib3mffh0ct588ttv43dub";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
