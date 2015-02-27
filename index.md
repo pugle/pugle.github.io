@@ -1,7 +1,7 @@
 ---
 layout: home
 title: PHP User Group Limburg and Eindhoven
-side_content_right: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.7442130716854!2d6.084646000000004!3d51.38937900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c745b085377f3d%3A0x298cc8aef13d137f!2sX-com+B.V.!5e0!3m2!1sen!2s!4v1425069102889" width="100%" height="300" frameborder="0" style="border:0"></iframe>
+side_content_right: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.74932793623!2d6.084460000000005!3d51.38928500000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c745b9dc2e8fdb%3A0xad966bf8b3dd4278!2sX-Com+B.V.+Full-service+Internetbureau!5e0!3m2!1sen!2s!4v1425070590929" width="100%" height="300" frameborder="0" style="border:0"></iframe>
 ---
 {% include JB/setup %}
 
