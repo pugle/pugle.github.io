@@ -1,7 +1,7 @@
 ---
 layout: home
 title: PHPUnit testing with Michelangelo van Dam
-side_content_right: <img src="images/location-unknown.png" title="Location unknown" >
+side_content_right: <img src="/images/unknown-location.png" title="Location unknown" >
 ---
 
 ### <span class="glyphicon glyphicon-calendar"></span> When: Monday, April 13nd 2015 at 7:00PM
@@ -12,4 +12,3 @@ The current location is still unknown, but as soon as we are ready to let you kn
 What we do have is a speaker and a subject to talk about! Next month, our speaker will be <strong>Michelangelo van Dam</strong> who will speak about a fundamental topic: <strong>PHPUnit testing</strong>! Needless to say, everybody is welcome to join!
 
 See you all next month!
-

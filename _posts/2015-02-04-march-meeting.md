@@ -11,16 +11,14 @@ Next monday, the second of march, we'll host our second Limburg PHP meetup. We a
 
 Due to the large number of attendees we had to change location. X-Com has generously offered to host this event at their place:
 
-<blockquote><pre>X-Com
-Zonneveld 9
-5993 SG Maasbree
-Tel: (+31) (0)88 - 01 10 900
-<a href="http://www.x-com.nl/" target="_blank">www.x-com.nl</a></pre></blockquote>
+<blockquote><address>X-Com<br />
+Zonneveld 9<br />
+5993 SG Maasbree<br />
+Tel: (+31) (0)88 - 01 10 900<br />
+<a href="http://www.x-com.nl/" target="_blank">www.x-com.nl</a></address></blockquote>
 
 A big thanks to X-Com for this!
 
 See you all next monday!
-
-
 
 <a href="http://www.meetup.com/Limburg-PHP-Meetup/events/220270940/" data-event="220270940" class="mu-rsvp-btn">RSVP</a>
