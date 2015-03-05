@@ -7,7 +7,7 @@ side_content_right: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12
 
 ### <span class="glyphicon glyphicon-calendar"></span> When: Monday, March 2nd 2015 at 7:00PM
 
-Next monday, the second of march, we'll host our second Limburg PHP meetup. We are thrilled to announce that Camilo  is giving a presentation about 'Coding Standards and Code Quality'.
+Next monday, the second of march, we'll host our second Limburg PHP meetup. We are thrilled to announce that <a href="https://twitter.com/unreal4u"><cite>Camilo Sperberg</cite></a> is giving a presentation about 'Coding Standards and Code Quality'.
 
 Due to the large number of attendees we had to change location. X-Com has generously offered to host this event at their place:
 
