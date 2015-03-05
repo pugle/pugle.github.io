@@ -5,25 +5,17 @@ side_content_right: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12
 ---
 {% include JB/setup %}
 
-### <span class="glyphicon glyphicon-calendar"></span> Next Meetup: Monday, March 2nd 2015 at 7:00PM @ X-Com B.V.
+### <span class="glyphicon glyphicon-calendar"></span> Next Meetup: Monday, April 13th 2015 at 7:00PM
 
 #### Coding standards and code quality
 
 
-Next monday, the second of march, we'll host our second Limburg PHP meetup. We are thrilled to announce that Camilo  is giving a presentation about 'Coding Standards and Code Quality'.
+Next month (April), on the second monday of the month (due to the first monday being a holiday), we will have our next meeting!
+The current location is still unknown, but as soon as we are ready to let you know, we will update this page as well as our <a href="http://www.meetup.com/Limburg-PHP-Meetup">Meetup</a> page.
 
-Due to the large number of attendees we had to change location. X-Com has generously offered to host this event at their place:
+What we do have is a speaker and a subject to talk about! Next month, our speaker will be <strong>Michelangelo van Dam</strong> who will speak about a fundamental topic: PHPUnit testing! Needless to say, everybody is welcome to join!
 
-X-Com  
-Zonneveld 9  
-5993 SG Maasbree  
-Tel: (+31) (0)88 - 01 10 900  
-<a href="http://www.x-com.nl/" target="_blank">www.x-com.nl</a>  
-
-A big thanks to X-Com for this!
-
-See you all next monday!  
+See you all next month!
 
 
-
-<a href="http://www.meetup.com/Limburg-PHP-Meetup/events/220270940/" data-event="220270940" class="mu-rsvp-btn">RSVP</a>
+<a href="http://www.meetup.com/Limburg-PHP-Meetup/events/220941745/" data-event="220270940" class="mu-rsvp-btn">RSVP</a>
