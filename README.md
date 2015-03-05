@@ -14,3 +14,10 @@ After installing Jekyll, simply run `jekyll serve` in the project directory and 
 ## Pull Requests
 
 When submitting a pull request, please use the 'develop' branch
+
+
+
+
+## The live site
+
+The live site can be visited at [http://phpugle.nl](http://phpugle.nl)
