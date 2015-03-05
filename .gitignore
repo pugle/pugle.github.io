@@ -1,0 +1,9 @@
+# IDE generated files
+.buildpath
+.project
+.settings
+
+# Jekyll generated files
+_site/*
+!_site/.gitignore
+
