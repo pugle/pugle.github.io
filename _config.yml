@@ -134,3 +134,8 @@ JB :
 #      Sponsoring : /sponsor
 #      Contact : /contact
 
+
+
+# hosting
+
+host:    0.0.0.0
