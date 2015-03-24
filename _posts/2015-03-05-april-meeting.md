@@ -13,7 +13,7 @@ Our speaker will be <a href="https://twitter.com/dragonbe"><cite>Michelangelo va
 This Meetup will be hosted by NetAnts in Roermond:
 
 <blockquote><address>NetAnts<br />
-Produktieweg 1 (Second story)<br />
+Produktieweg 1 (Second floor)<br />
 6045 JC Roermond<br />
 Tel: (+31) (0)6 - 517 917 56<br />
 <a href="http://www.netants.nl/" target="_blank">www.netants.nl</a></address></blockquote>
